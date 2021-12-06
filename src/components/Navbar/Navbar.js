@@ -13,7 +13,7 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import { Link } from 'react-router-dom';
 
-const pages = ['Dashboard', 'Form'];
+// const pages = ['Dashboard', 'Form'];
 
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
